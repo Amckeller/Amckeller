@@ -7,9 +7,13 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2> Certifications:</h2>
 -CompTIA Security + CE https://www.credly.com/badges/32948f48-9dc4-4f55-827a-3a334100f31a/linked_in_profile)
+
 -Google Cyber Security (https://www.credly.com/badges/dd22203c-9385-486b-b54f-3210319b6ddc/linked_in_profile)
+
 -Google Data Analytics Certificate (https://www.credly.com/badges/df90bdb1-39ad-4545-bd51-077063bec2a3/linked_in_profile)
+
 -Google Cybersecurity Certificate & CompTIA Security+ dual credential(https://www.credly.com/badges/0833ed61-7268-4160-9b43-0fe446e70ff6/linked_in_profile)
+
 -Google IT Support Certificate(https://www.credly.com/badges/4014ae2b-a324-4e66-a191-bd7be28fb3a7/linked_in_profile)
 <h2>📺 Popular YouTube Videos</h2>
 
