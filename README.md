@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1>Hello visitor My name is Anthony MCkeller! 
+<h1>Hello viewer! My name is Anthony Mckeller 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
